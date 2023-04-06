@@ -1,0 +1,14 @@
+#holliday
+{
+    color: red;
+}
+table, th, td, tr
+{
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+}
+td
+{
+    width: 50px;
+    height: 40px;
+}
